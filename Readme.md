@@ -5,7 +5,7 @@ This is a personal portfolio website for Christopher Thomas, a Software Develope
 
 **Live Site:** [https://christopherthomas-portfolio.netlify.app](https://christopherthomas-portfolio.netlify.app)  
 **GitHub Repository:** [https://github.com/christopherthomas/portfolio](https://github.com/christopherthomas/portfolio)  
-**Mockups:** [Figma Mockup Link](https://figma.com/your-mockup-link)
+**Mockups:** Figma File and PDF
 
 ---
 
